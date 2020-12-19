@@ -1,0 +1,57 @@
+Nombre de points:
+Valeur maximum pour l'ordre:
+Valeur du retard pur r:
+
+Valeur de na:          1
+Valeur de nb:          1
+Coefficients du systeme:
+a(1)=      .55886160
+b(1)=     .21793130
+pourcentage d'info est :        99.988380
+
+Valeur de na:          1
+Valeur de nb:          2
+Coefficients du systeme:
+a(1)=      .57064080
+b(1)=     .22000480
+b(2)=    -.00644586
+pourcentage d'info est :        99.997700
+
+Valeur de na:          1
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=      .57957530
+b(1)=     .22009750
+b(2)=    -.00758193
+b(3)=    -.00273040
+pourcentage d'info est :        99.999480
+
+Valeur de na:          2
+Valeur de nb:          2
+Coefficients du systeme:
+a(1)=     1.00220200
+a(2)=     -.24123400
+b(1)=     .22000230
+b(2)=    -.10047690
+pourcentage d'info est :        99.999840
+
+Valeur de na:          2
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=     1.01402900
+a(2)=     -.24801870
+b(1)=     .21999610
+b(2)=    -.10308370
+b(3)=     .00009460
+pourcentage d'info est :        99.999840
+
+Valeur de na:          3
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=     1.57016600
+a(2)=     -.81887440
+a(3)=      .14175950
+b(1)=     .22006170
+b(2)=    -.22548400
+b(3)=     .05891603
+pourcentage d'info est :     -4878.078000

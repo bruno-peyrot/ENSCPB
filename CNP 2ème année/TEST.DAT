@@ -1,0 +1,116 @@
+IDENTIFICATION PAR LES MOINDRES CARRES
+
+
+Nombre de points: 99
+Valeur maximum pour l'ordre: 4
+Valeur du retard pur r: 0
+
+
+Valeur de na:          1
+Valeur de nb:          1
+Coefficients du systeme:
+a(1)=      .74475720
+b(1)=    -.13176250
+pourcentage d'info est :        99.607700
+
+
+Valeur de na:          1
+Valeur de nb:          2
+Coefficients du systeme:
+a(1)=      .70392380
+b(1)=    -.12204740
+b(2)=    -.02171896
+pourcentage d'info est :        99.940510
+
+
+Valeur de na:          1
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=      .70352280
+b(1)=    -.12206150
+b(2)=    -.02169607
+b(3)=    -.00015001
+pourcentage d'info est :        99.940660
+
+
+Valeur de na:          1
+Valeur de nb:          4
+Coefficients du systeme:
+a(1)=      .70422360
+b(1)=    -.12204470
+b(2)=    -.02177051
+b(3)=     .00022481
+b(4)=    -.00007978
+pourcentage d'info est :        99.940290
+
+
+Valeur de na:          2
+Valeur de nb:          2
+Coefficients du systeme:
+a(1)=      .77057260
+a(2)=     -.04982669
+b(1)=    -.12213720
+b(2)=    -.01291989
+pourcentage d'info est :        99.940830
+
+
+Valeur de na:          2
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=     1.37862700
+a(2)=     -.47618790
+b(1)=    -.12197270
+b(2)=     .06083804
+b(3)=     .01412502
+pourcentage d'info est :        99.940190
+
+
+Valeur de na:          2
+Valeur de nb:          4
+Coefficients du systeme:
+a(1)=     1.40023500
+a(2)=     -.49026450
+b(1)=    -.12184930
+b(2)=     .06341737
+b(3)=     .01456331
+b(4)=     .00030509
+pourcentage d'info est :        99.941250
+
+
+Valeur de na:          3
+Valeur de nb:          3
+Coefficients du systeme:
+a(1)=     1.38563900
+a(2)=     -.48509090
+a(3)=      .00288321
+b(1)=    -.12195620
+b(2)=     .06163638
+b(3)=     .01374741
+pourcentage d'info est :        97.494740
+
+
+Valeur de na:          3
+Valeur de nb:          4
+Coefficients du systeme:
+a(1)=     1.29598400
+a(2)=     -.27407000
+a(3)=     -.10077550
+b(1)=    -.12189170
+b(2)=     .05067956
+b(3)=     .02987861
+b(4)=     .00327056
+pourcentage d'info est :     -3445.363000
+
+
+Valeur de na:          4
+Valeur de nb:          4
+Coefficients du systeme:
+a(1)=     1.32484800
+a(2)=     -.36668750
+a(3)=     -.01173984
+a(4)=     -.02852963
+b(1)=    -.12174460
+b(2)=     .05385602
+b(3)=     .02170430
+b(4)=     .00681511
+pourcentage d'info est :   -664766.800000

@@ -1,0 +1,1228 @@
+[ver]
+	4
+[sty]
+	
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[revisions]
+	0
+[prn]
+	Epson Stylus 800 ESC/P 2
+[port]
+	LPT1:
+[lang]
+	3
+[desc]
+	
+	
+	
+	
+	
+	799350854
+	4
+	799287568
+	209
+	4
+	0
+	0
+	0
+	0
+	
+	
+	
+	
+	
+	
+	1
+[fopts]
+	0
+	1
+	0
+	0
+[lnopts]
+	2
+	Body Text
+	1
+[docopts]
+	5
+	2
+[GramStyle]
+	
+[tag]
+	Texte
+	2
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		17
+		0
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		1
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Texte
+	0
+	0
+[tag]
+	Texte simple
+	3
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		0
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		0
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Texte simple
+	0
+	0
+[tag]
+	Puce 1
+	4
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		850
+		283
+		283
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		<*1>
+		360
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Puce 1
+	0
+	0
+[tag]
+	Puce 2
+	5
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		1134
+		283
+		283
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		<*0>
+		360
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Puce 2
+	0
+	0
+[tag]
+	Retrait 1
+	6
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		1134
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Retrait 1
+	0
+	0
+[tag]
+	Retrait 2
+	7
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		1417
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Retrait 2
+	0
+	0
+[tag]
+	N</p> liste
+	8
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		850
+		283
+		283
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		1
+		<*:>.
+		360
+		2
+		1
+		0
+		4
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	N</p> liste
+	0
+	0
+[tag]
+	Gras & centr<\i>
+	9
+	[fnt]
+		Times New Roman
+		240
+		0
+		49153
+	[algn]
+		4
+		2
+		0
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		170
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Gras & centr<\i>
+	0
+	0
+[tag]
+	Texte tableau
+	11
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		2
+		2
+		0
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		0
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Texte tableau
+	0
+	0
+[tag]
+	Filet dessus
+	12
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		0
+		0
+		0
+	[spc]
+		17
+		277
+		2
+		283
+		113
+		2
+		100
+	[brk]
+		4
+	[line]
+		5
+		0
+		2
+		0
+		1
+		3
+		1
+		153
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Filet dessus
+	0
+	0
+[tag]
+	Alin<\i>a
+	0
+	[fnt]
+		Times New Roman
+		240
+		0
+		49152
+	[algn]
+		1
+		2
+		0
+		1134
+		0
+	[spc]
+		17
+		277
+		2
+		141
+		0
+		2
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		2
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+		
+		0
+		2
+		1
+		0
+		0
+		0
+		0
+	[nfmt]
+		24
+		1
+		2
+		,
+		 
+		F
+	Alin<\i>a
+	0
+	0
+[frm]
+	1
+	66240
+	3308
+	2687
+	9306
+	3343
+	1
+	2
+	1
+	1 0 0 100 100 0 0
+	0
+	16777215
+	3
+	[frmlay]
+		3343
+		5998
+		2
+		141
+		141
+		2
+		2828
+		141
+		0
+		2
+		0
+		0
+		0
+		0
+		1
+		3449
+		9165
+		0
+	[txt]
+<+B><:f280,2Times New Roman,0,0,0><+!>T.P. De Commande Num<\i>rique des Proc<\i>d<\i>s<-!><:f>
+
+>
+[frm]
+	1
+	66240
+	4429
+	14109
+	7394
+	14717
+	1
+	2
+	1
+	3 0 0 0 0 0 0
+	0
+	16777215
+	4
+	[frmlay]
+		14717
+		2965
+		2
+		141
+		141
+		2
+		14250
+		141
+		0
+		2
+		0
+		0
+		0
+		0
+		1
+		4570
+		7253
+		0
+	[txt]
+<+B>6 << T<+'>95%<-'> / T<+'>E<-'> << 15
+
+>
+[lay]
+	Standard
+	516
+	[rght]
+		16834
+		11907
+		2
+		1440
+		1440
+		2
+		1440
+		1440
+		0
+		1
+		0
+		1
+		0
+		2
+		1
+		1440
+		10465
+		12
+		1
+		720
+		1
+		1440
+		1
+		2160
+		1
+		2880
+		1
+		3600
+		1
+		4320
+		1
+		5040
+		1
+		5760
+		1
+		6480
+		1
+		7200
+		1
+		7920
+		1
+		8640
+	[hrght]
+	[lyfrm]
+		1
+		11200
+		0
+		0
+		11907
+		1440
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		1
+	[frmlay]
+		1440
+		11907
+		1
+		1440
+		73
+		2
+		793
+		1440
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		1440
+		10465
+		2
+		2
+		4680
+		3
+		9360
+	[txt]
+>
+	[frght]
+	[lyfrm]
+		1
+		13248
+		0
+		15394
+		11907
+		16834
+		0
+		1
+		3
+		1 0 0 0 0 0 0
+		0
+		0
+		2
+	[frmlay]
+		16834
+		11907
+		1
+		1440
+		793
+		2
+		15467
+		1440
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		1440
+		10465
+		2
+		2
+		4680
+		3
+		9360
+	[txt]
+>
+[elay]
+[l1]
+	0
+[pg]
+	4
+	48 0 0 0 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	78 290 48 0 0 0 0 65535 2 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	113 0 29 0 0 0 0 65535 2 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	147 360 23 1025 0 0 0 65535 65535 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+[edoc]
+<+C><:S+-1><:#272,9025><-!><+!><:f240,2Times New Roman,0,0,0>TALBOT St<\i>phane<-!>
+
+<:s><:#272,9025><+!><:f240,2Times New Roman,0,0,0>PEYROT Bruno
+
+<:s><:#272,9025><+!><:f240,2Times New Roman,0,0,0>
+
+<:s><:#272,9025><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1868><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1868><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1868><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1868><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1059><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1059><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1059><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,1059><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,9025><+!><:f240,2Times New Roman,0,0,0>
+
+<+B><:s><:#272,9025><+!><:f240,2Times New Roman,0,0,0>
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0><+#><+!>I./ <:f240,2Times New Roman,0,0,0>BUT DU T.P.:<-!><-#>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#816,9025><:f240,2Times New Roman,0,0,0>	Le but de ce T.P. est de r<\i>aliser la mod<\i>lisation et la commande d'une petite installation pilote. Le proc<\i>d<\i> 
+<\i>tudi<\i> est dans notre cas simul<\i> sur un calculateur analogique dont le sch<\i>ma de c<\b>blage est le suivant:
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#816,9025><:f240,2Times New Roman,0,0,0>	Ce type de calculateurs <\i>taient utilis<\i>s pour simuler des syst<\h>mes physiques (i.e. r<\i>soudre les 
+<\i>quations diff<\i>rentielles les d<\i>crivant), mais on leur pr<\i>f<\h>re maintenant les simulations informatiques beaucoup plus pr<\i>cises.
+
+<+C><:#544,9025><:f240,2Times New Roman,0,0,0>	On peut consid<\i>rer le proc<\i>d<\i> comme un syst<\h>me mono-entr<\i>e, mono-sortie avec une perturbation.
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0><+!><+#>II./ MODELISATION:<-#><-!>
+
+<+C><:s><:#272,9025><+!><+#><:f240,2Times New Roman,0,0,0>
+
+<+C><:#1632,9025><:f240,2Times New Roman,0,0,0>	La premi<\h>re chose que nous ayons 
+<\`> faire est de d<\i>terminer la p<\i>riode d'<\i>chantillonnage T<+'>E<-'>. Pour cela on 
+<\i>tudie la r<\i>ponse de notre syst<\h>me <\`> un <\i>chelon positif, gr<\b>ce au programme du listing 1. Les r<\i>sultats obtenus sont donn<\i>s en annexe (listing 2 et courbe 1). On mesure alors le temps de r<\i>ponse 
+<\`> 95% du syst<\h>me (T<+'>95%<-'>). Avec les r<\i>sultats du listing 2 on trouve T<+'>95%<-'>=117s. Si on refait le calcul avec plusieurs 
+<\i>chelons de diff<\i>rentes valeurs, positifs ou n<\i>gatifs, on trouve des valeurs sensiblement identiques pour T<+'>95%<-'>.
+
+<+C><:#276,9025>	D'apr<\h>s le <+!>crit<\h>re d' Isermann<-!>, on doit avoir:
+
+<+B><:s><:#272,2989>
+
+<+B><:s><:#272,2989>
+
+<+B><:s><:#272,2989>
+
+<+B><:s><:#272,3071>
+
+<+B><:s><:#272,3071>
+
+<+B><:s><:#272,3071>
+
+<+B><:s><:#272,9025>
+
+<+B><:s><:#272,9025>
+
+<+B><:s><:#272,9025>
+
+<+B><:#272,9025>
+
+<+C><:s><:#272,9025>Ce qui nous donne: T<+'>95%<-'> / 15 << T<+'>E<-'> << T<+'>95%<-'> / 6 , d'o<\y> avec T<+'>95%<-'> = 117s:  7.8s << T<+'>E<-'> << 19.5s
+
+<+C><:s><:#544,9025>Nous pouvons donc choisir la valeur de T<+'>E<-'> dans un intervalle assez large, avec toutefois quelques conditions:
+
+<+C><:s><:#272,9025>
+
+<+C><:#272,9025>	1</p>) T<+'>E<-'> doit <\j>tre enti<\h>re.
+
+<+C><:s><:#816,9025>	2</p>) On ne doit pas prendre une p<\i>riode d'<\i>chantillonnage trop grande car sinon on perd en pr<\i>cision, et on peut, par exemple, trouver un mod<\h>le du premier ordre pour un syst<\h>me qui est pourtant d'ordre deux.
+
+<+C><:#1088,9025>	3</p>) La p<\i>riode d'<\i>chantillonnage ne doit pas <\j>tre trop petite car, 
+<\`> ce moment l<\`>, on va tenir compte exag<\i>r<\i>ment du bruit du syst<\h>me. Or, le bruit n'<\i>tant pas reproductible d'un essai 
+<\`> un autre, un mod<\h>le d<\i>crivant tr<\h>s bien un jeu de donn<\i>es, peu 
+<\j>tre totalement incompatibles avec un deuxi<\h>me jeu de donn<\i>es obtenu avec le m<\j>me proc<\i>d<\i>.
+
+<+C><:s><:#272,9025>
+
+<+C><:#276,9025>	Ces consid<\i>rations nous am<\h>nent <\`> prendre: <+!>T<+'>E<-'>=13s<-!>.
+
+<+C><:s><:#272,9025>
+
+<+C><:#816,9025>	Il faut maintenant identifier le syst<\h>me, c'est-<\`>-dire d<\i>terminer un certain nombre de param<\h>tres: le retard pur R, l'ordre 
+<\`> la sortie na, l'ordre <\`> l'entr<\i>e nb, ainsi que les coefficients a<+'>i<-'> et b<+'>i<-'> du mod<\h>le:
+
+<+C><:s><:#272,9025>
+
+<+C><:#272,9025>                       <:f200,2Times New Roman,0,0,0>na<:f>                      
+<:f200,2Times New Roman,0,0,0>nb<:f>
+
+<+@><:S+-1><:#348,9025>	y(k) = <:f280,2Symbol,0,0,0><+!>S<-!><:><:f240, Symbol,> <:f240,2Times New Roman,0,0,0>a<+'>i<-'> . y(k-i)  +  
+<:f280,2Symbol,0,0,0><+!>S<-!><:><:f240,2Times New Roman,0,0,0>  b<+'>i<-'> . u(k-i-R)<:f><:f>
+
+<+@><:S+-1><:#228,9025><:f200,2Times New Roman,0,0,0>                          i=1                        i=1
+
+<+@><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#1088,9025><:f240,2Times New Roman,0,0,0>	On peut d<\i>j<\`><:f><:f240,2Times New Roman,0,0,0> avoir une id<\i>e de certains des param<\h>tres en examinant la courbe 1. On y remarque, entre autre, que le retard pur est nul (le syst<\h>me r<\i>pond tout de suite 
+<\`> la stimulation). De plus l'ordre <\`> la sortie ne doit pas <\j>tre 
+<\i>gal <\`> un, car la tangente <\`> l'origine du signal de sortie est horizontale: on a donc un ordre deux ou plus 
+<\`> la sortie.
+
+<+C><:S+-1><:#1364,9025><:f240,2Times New Roman,0,0,0>	Afin d'obtenir ces param<\h>tres on utilise la m<\i>thode des moindres carr<\i>s. Pour cela, 
+<:f><:f240,2Times New Roman,0,0,0>on utilise le programme du listing 3. Ce programme, pour plusieurs valeurs de na et nb, calcule les coefficients a<+'>i<-'> et b<+'>i<-'> ainsi que le pourcentage d'information. Afin de le tester, on lui soumet un fichier d
+e donn<\i>es (<+!>dontes.dat<-!>). Les r<\i>sultats nous donnent que le pourcentage d'information maximum (99.999840%) est obtenu avec les param<\h>tres suivants:
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#276,9025><:f240,2Times New Roman,0,0,0>	<+!>na = nb = 2<-!>
+
+<+C><:s><:S+-1><:#272,9025><+!><:f240,2Times New Roman,0,0,0>	a<+'>1<-'> = 1.00220200	a<+'>2<-'> = -0.24123400	a<+'>3<-'> = 0.22000230<-!>
+
+<+C><:s><:S+-1><:#272,9025><+!><:f240,2Times New Roman,0,0,0>	a<+'>4<-'> = -0.10047690<-!>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#548,9025><:f240,2Times New Roman,0,0,0>Ces r<\i>sultats sont satisfaisant, le fichier dontes.dat ayant 
+<\i>t<\i> obtenu par simulation de l'<\i>quation suivante: <+!>y(k) = y(k-1) - 0.24 y(k-2) + 0.22 u(k-1) - 0.1 u(k-2)<-!>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>Le programme utilisant la m<\i>thode des moindres carr<\i>s fonctionne donc correctement.
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#820,9025><:f240,2Times New Roman,0,0,0><+#>N.B.:<-#> Dans la pratique, le programme de calcul des moindres carr<\i>s a 
+<\i>t<\i> modifi<\i> pour le traitement de <+!>dontes.dat<-!>, car dans ce fichier les donn<\i>es ont d<\i>j<\`><:f><:f240,2Times New Roman,0,0,0> 
+<\i>t<\i> corrig<\i>e de valeur moyenne.
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#1088,9025><:f240,2Times New Roman,0,0,0>	Maintenant que nous avons v<\i>rifi<\i> le bon fonctionnement de notre programme de MC, utilisons le pour trouver les param<\h>tres de notre syst<\h>me. Pour cela, on va exciter notre syst<\h>me par une SBPA (S<\i>quence Binai
+re Pseudo Al<\i>atoire) avec le programme du listing 4 afin d'obtenir le fichier r<\i>sultat du listing 5.
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#840,9025><:f240,2Times New Roman,0,0,0>	La question que l'on se pose alors est de trouver les bons param<\h>tres d<\i>crivant cette SBPA. Une SBPA est d<\i>finie par deux grandeurs: le nombre n de bascules, ainsi que 
+<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> la dur<\i>e d'un palier.<:f><:f240,2Times New Roman,0,0,0> Pour trouver ces deux nombres, il faut savoir que:<:f>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+@><:s><:S+-1><:#296,9025><:f240,2Times New Roman,0,0,0>	<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> = k . T<+'>E<-'>		et que:		<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> << 0.4 . T<+'>95%<-'>
+
+<+@><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#864,9025><:f240,2Times New Roman,0,0,0>On a donc: <:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> << 46.8 et k = 
+<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> / T<+'>E<-'> = 
+<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> / 13. D'o<\y>: k << 46.8 / 13 = 3.6. Comme il faut que k soit entier, on prend donc: 
+<+!>k = 3<-!>. Alors: <:f><:f240, Symbol,><+!>q<:><:f><:f240,2Times New Roman,0,0,0> = 39s<-!>. Ce r<\i>sultat, s'il est coh<\i>rent, doit v<\i>rifier la relation: 
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+@><:s><:S+-1><:#296,9025><:f240,2Times New Roman,0,0,0>	<:f><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> << 1.125 . 
+<:f><:f240, Symbol,>t<:><:f><:f240,2Times New Roman,0,0,0>		avec:	<:f><:f240, Symbol,>t<:><:f><:f240,2Times New Roman,0,0,0> = T<+'>95%<-'> / 3 = 39s<:f>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+@><:S+-1><:#568,9025><:f240, Symbol,>q<:><:f><:f240,2Times New Roman,0,0,0> = 39 << 1.125 . 39 : la relation est correctement v<\i>rifi<\i>e. Il nous faut maintenant conna<\n>tre<:f><:f240,2Times New Roman,0,0,0> le nombre de bascules de la SBPA, sachant que: 
+
+<+@><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+@><:S+-1><:#296,9025><:f240,2Times New Roman,0,0,0>	n . <:f><:f240, Symbol,>q<:f><:f240,2Times New Roman,0,0,0> <;> Tr	avec Tr = T<+'>99%<-'> = 183s
+
+<+@><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#548,9025><:f240,2Times New Roman,0,0,0>On doit donc avoir: 39 . n <;> 183  d'o<\y>:  n <;> 183 / 39 = 4.69. De plus n doit 
+<\j>tre entier, et il ne sert <\`> rien de lui donner une valeur trop importante. On va donc prendre: 
+<+!>n = 5<-!>.
+
+<+@><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#840,9025><:f240,2Times New Roman,0,0,0>	Notre SBPA est donc d<\i>termin<\i>e par n = 5 et 
+<:f><:f240, Symbol,>q<:f><:f240,2Times New Roman,0,0,0> = 39s. On s'aper<\g>oit que la SBPA 
+<\`> 5 bascules dont le polyn<\t>me octal est (51)<+'>8<-'> est de longueur maximale, c'est-<\`>-dire de longueur 
+<\i>gale <\`>: 2 ^ n - 1 = 31 <\i>tats. Le sch<\i>ma de cette SBPA est donn<\i> ci-dessous:
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#1088,9025><:f240,2Times New Roman,0,0,0>	Apr<\h>s ex<\i>cution du programme du listing 4, on obtient les r<\i>sultats du listing 5, c'est-<\`>-dire la courbe 2. On applique ensuite 
+<\`> ce fichier r<\i>sultat le programme de MC. On obtient alors les valeurs du listing 6. Il semble que le mod<\h>le le plus int<\i>ressant est celui o<\y> l'ordre 
+<\`> l'entr<\i>e et l'ordre <\`> la sortie sont tous les deux <\i>gaux 
+<\`> 2. On obtient alors:
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#276,9025><:f240,2Times New Roman,0,0,0>	<+!>na = nb = 2<-!>
+
+<+C><:s><:S+-1><:#272,9025><+!><:f240,2Times New Roman,0,0,0>	a<+'>1<-'> = 0.80681070	a<+'>2<-'> = -0.07486601	a<+'>3<-'> = -0.12242920<:f><:f240,2Times New Roman,0,0,0><-!>
+
+<+C><:s><:S+-1><:#272,9025><+!><:f240,2Times New Roman,0,0,0>	a<+'>4<-'> = -0.00798256<-!>
+
+<+C><:s><:S+-1><:#272,9025><+!><:f240,2Times New Roman,0,0,0>	pourcentage d'information = 99.874320%<-!>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#1360,9025><:f240,2Times New Roman,0,0,0>	Pour v<\i>rifier si ces param<\h>tres sont bons, on trace sur une m<\j>me courbe (courbe 3), en se servant du jeu de donn<\i>es obtenu pendant l'excitation par une SBPA, la sortie r<\i>elle du proc<\i>d<\i> et la sortie calcul
+<\i>e par le mod<\h>le. On remarque que les deux courbes sont pratiquement confondues. Notre mod<\h>le d<\i>crit donc correctement le comportement du syst<\h>me.
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:S+-1><:#272,9025><:f240,2Times New Roman,0,0,0><+!><+#>III./ COMMANDE:<-#><-!>
+
+<+C><:s><:S+-1><:#272,9025><-#><:f240,2Times New Roman,0,0,0>
+
+<+C><:#1364,9025><:f240,2Times New Roman,0,0,0>	Maintenant que nous avons un mod<\h>le math<\i>matique de notre proc<\i>d<\i>, nous pouvons  'construire' un r<\i>gulateur, c'est-<\`>-dire 
+<\i>crire un programme qui, quand on lui donnera une valeur de consigne, s'efforcera de rapprocher la valeur de la sortie du proc<\i>d<\i> de la consigne puis de l'y maintenir. Pour contr<\t>ler notre proc<\i>d<\i>, nous avons d<\i>cid<\i> d'utiliser un r<\i>
+gulateur de type <+!>PID<-!>.
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#276,9025><:f240,2Times New Roman,0,0,0>Notre mod<\h>le est le suivant: <+!>y<:f><:f240,2Times New Roman,0,0,0>(k) = 0.807 y(k-1) - 0.075 y(k-2) - 0.122 u(k-1) - 0.008 u(k-1)<-!>
+
+<+C><:s><:#544,9025><:f240,2Times New Roman,0,0,0>(certaines valeurs sont arrondies pour plus de clart<\i>, mais les calculs ont 
+<\i>t<\i> faits avec les valeurs exactes).
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#544,9025><:f240,2Times New Roman,0,0,0>	A partir de l<\`>, on fait une transform<\i>e en z pour avoir la fonction de transfert du syst<\h>me. On obtient: s(z) . (1 - 0.807 z<+&>-1<-&> + 0.075 z<+&>-2 
+<-&>) = e(z) . ( -0.122 z<+&>-1<-&> - 0.008 z<+&>-2 <-&>), d'o<\y>:
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#276,9025><:f240,2Times New Roman,0,0,0>	<+!>H(z) = s(z) / e(z) = ( -0.008 - 0.122 z ) / ( z<+&>2<-&> - 0.807 z + 0.075)<-!>
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#824,9025><:f240,2Times New Roman,0,0,0>Les p<\t>les de notre mod<\h>le sont donc: 
+<+!>z1 = -1.002E-2<-!> et <+!>z2 = 0.7129<-!>. Les p<\t>les sont donc 
+<\`> l'int<\i>rieur du cercle unit<\i>. Le syst<\h>me est donc stable et l'ordre est inf<\i>rieur ou 
+<\i>gal <\`> 2: nous pouvons donc utiliser un <+!>PID <\`> compensation de p<\t>les<-!>.
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0>	Maintenant d<\i>terminons la forme du r<\i>gulateur: R(z) = Q(z) / P(z)
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0>P(z) = z . (z - 1) car nous avons un PID.
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0>Q(z) = K . (z - z1) . (z - z2)
+
+<+C><:#544,9025><:f240,2Times New Roman,0,0,0>Il nous faut trouver la valeur optimale de K. Cette valeur est obtenue pour une marge de phase de 60</p>. Soit la fonction G(z) = R(z) . H(z) = K . ( -0.122 z - 0.008) / z (z-1).
+
+<+C><:#272,9025><:f240,2Times New Roman,0,0,0>On pose: F(z) = G(z) / K.
+
+<+C><:s><:#272,9025><:f240,2Times New Roman,0,0,0>
+
+<+C><:s><:S+-1><:#568,9025><:f240,2Times New Roman,0,0,0>	On calcule la r<\i>ponse harmonique, puis on cherche la valeur de 
+<:f><:f240, Symbol,>w<:><:f><:f240,2Times New Roman,0,0,0> qui permet d'avoir un d<\i>phasage de -120</p>.
+
+<+C><:s><:#272,9025>
+
+<+@><:S+-1><:#296,9025>F(j<:f240, Symbol,>w<:><:f>) = (-0.122 (cos <:f240, Symbol,>w<:><:f> + j sin 
+<:f240, Symbol,>w<:><:f>) -0.008) / ( (cos <:f240, Symbol,>w<:><:f> + j sin 
+<:f240, Symbol,>w<:><:f>) (cos <:f240, Symbol,>w<:><:f> - 1 + j sin 
+<:f240, Symbol,>w<:><:f>) )
+
+<+@><:s><:S+-1><:#272,9025>
+
+<+@><:S+-1><:#296,9025>F(j<:f240, Symbol,>w<:><:f>) = (0.572 + 0.008 sin<+&>2<-&><:f240, Symbol,>w<:><:f> / (1 - cos 
+<:f240, Symbol,>w<:><:f>) ) - j ( (sin <:f240, Symbol,>w<:><:f> / 2.cos 
+<:f240, Symbol,>w<:><:f>) (-0.572 - 0.008.cos <:f240, Symbol,>w<:><:f>))
+
+<+C><:s><:#272,9025>
+
+<+C><:s><:#272,9025>Il nous faut donc la solution de l'<\i>quation:
+
+<+C><:s><:#272,9025>
+
+<+@><:S+-1><:#296,9025>(-0.572 - 0.008 cos <:f240, Symbol,>w<:><:f>) (sin <:f240, Symbol,>w<:><:f> / (1 - cos 
+<:f240, Symbol,>w<:><:f>)) / (-0.572 - 0.008 (sin<+&>2<-&><:f240, Symbol,>w<:><:f> / (1 - cos 
+<:f240, Symbol,>w<:><:f>))) = tg(-120</p>)
+
+<+@><:s><:S+-1><:#272,9025>
+
+<+C><:S+-1>On trouve alors, <\`> la machine: <:f240, Symbol,><+!>w<:><:f><+'>-120</p><-'> = 54.170<-!>, d'o<\y>: 1/K = 0.1397. Donc: K = 7.155. Le gain de notre syst<\h>me 
+<\i>tant n<\i>gatif, on prend donc: <+!>K = -7.155<-!>.
+
+<+@><:s><:S+-1><:#272,9025>
+
+<+C><:S+-1>	Nous avons ainsi totalement d<\i>termin<\i> notre r<\i>gulateur PID. Le programme se chargeant de sa r<\i>alisation est donn<\i> au listing 7, ses r<\i>sultats au listing 8 et trac<\i>s sur la courbe 4. Un autre exemple est donn<\i> sur la courbe 5. On s'a
+per<\g>oit que notre commande est efficace, dans le sens o<\y> elle permet de maintenir la sortie de notre proc<\i>d<\i> sur une valeur de la consigne donn<\i>e.<-#><-#>
+
+>
+
+[Embedded]
+00024642

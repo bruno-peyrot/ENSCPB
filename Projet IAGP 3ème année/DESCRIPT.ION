@@ -1,0 +1,31 @@
+resex		résultats Ex 9 points
+resex-5		Ex 13 pts
+resex-6		Ex 17 pts
+resex-7		Ex 25 pts
+resey		Ey 9 pts
+resey-5		Ey 13 pts
+resey-6		Ey 17 pts
+resey-7		Ey 25 pts
+ressx		Sx 9 pts
+ressx-5		Sx 13 pts
+ressx-6		Sx 17 pts
+ressx-7		Sx 25 pts
+ressy		Sy 9 pts
+ressy-5		Sy 13 pts
+ressy-6		Sy 17 pts
+ressy-7		Sy 25 pts
+presex		ex calcules et mesures
+presey		ey calc et mes
+pressx		sx calc et mes
+pressy		sy calc et mes
+arg2		fit polynomial
+sepdata		donnees brutes de la sep
+sepd		donnees renormalisees (pts experimentaux et extrapoles)
+pol1.prn	résultats polynomes
+pol2.prn	""
+pol3.prn	""
+pol4.prn	""
+sep		calcul des réseaux
+visu		visualisation des surfaces
+visupoly	visualisation des polynômes
+tra		normalisation des donnees (utilise nor)
